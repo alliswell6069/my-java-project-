@@ -11,5 +11,10 @@ class Main {
     // add two numbers
     int sum = first + second;
     System.out.println("The sum is: " + sum);
+	
+    // sub two numbers
+    int sub = first - second;
+    System.out.println("The sub is: " - sum);
+
   }
 }
